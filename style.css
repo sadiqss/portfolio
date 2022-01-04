@@ -1,0 +1,35 @@
+body{
+    font-family: 'Vujahday Script', cursive;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.name-color{
+    color: brown;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 70%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    background-color: rgb(236, 164, 112);
+    padding: 10px 35px;
+    border-radius: 5px;
+    color: white;
+}
+a{
+    font-weight: 900;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
